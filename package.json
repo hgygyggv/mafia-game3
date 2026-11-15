@@ -1,0 +1,12 @@
+{
+  "name": "mafia-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mafia online game server",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
